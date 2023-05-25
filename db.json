@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "David",
+      "cpf": "00000000000",
+      "fone": "988888888",
+      "email": "david@email.com",
+      "password": "password",
+      "type": "cliente"
+    },
+    {
+      "name": "Cliente1",
+      "cpf": "12345678910",
+      "fone": "82988888888",
+      "email": "Cliente1@email.com",
+      "password": "AAAAAAAA",
+      "type": "cliente",
+      "id": 2
+    },
+    {
+      "name": "Cliente",
+      "cpf": "00000000000",
+      "fone": "82988888888",
+      "email": "Cliente@email.com",
+      "password": "Senha",
+      "type": "cliente",
+      "id": 3
+    }
+  ]
+}
